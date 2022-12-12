@@ -1,0 +1,5 @@
+# general Mac
+.DS_Store
+
+# input for day challenges
+*.txt
